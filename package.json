@@ -1,0 +1,22 @@
+{
+  "name": "tutorial-express-calculator",
+  "version": "1.0.0",
+  "description": "A simple server-side calculator.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbourlotos/tutorial-express-calculator.git"
+  },
+  "author": "Alex Bourlotos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asbourlotos/tutorial-express-calculator/issues"
+  },
+  "homepage": "https://github.com/asbourlotos/tutorial-express-calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
